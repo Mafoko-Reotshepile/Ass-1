@@ -16,7 +16,7 @@ public class Assignment1 {
      * @param args the command line arguments
      */
     // Class to manage all student data
-    public class Assignment 
+   public class Assignment 
     {
     private static ArrayList<Student> studentList = new ArrayList<>();
     private static Scanner scanner = new Scanner(System.in);
@@ -25,8 +25,9 @@ public class Assignment1 {
     
     public static void main(String[] args) 
     {
-        
+     
         
     }
     
+
 }

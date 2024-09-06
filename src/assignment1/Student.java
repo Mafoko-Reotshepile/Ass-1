@@ -10,6 +10,12 @@ package assignment1;
  */
 public class Student 
 {
+    private String name;
+    private int id;
+    private int age;
+    private String email;
+    private String course;
+    
     
     
 }
